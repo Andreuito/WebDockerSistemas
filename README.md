@@ -12,5 +12,5 @@
 ### Luego pasamos a la parte de instalar nuestro propio html con nuestro nombre y con este comando lo que hacemos es cambiar la ruta de busqueda del nginx ya que hemos creado nosotros una ruta propia.
 ![image](https://user-images.githubusercontent.com/91564971/168856453-4b2d970a-127d-438e-9c13-3e75710e7bec.png)
 
-### Por ultimo si nos dirigimos a nuestro navegador y ponemos el puerto en el que esta alojado deberia salir mi html pero por razones que desconozco y que no he podido solucionar me sale este resultado.
-![image](https://user-images.githubusercontent.com/91564971/168856809-bc58ad93-9021-40eb-b2ef-ce031100e05e.png)
+### Por ultimo si nos dirigimos a nuestro navegador y ponemos el puerto en el que esta alojado deberia salir nuestro html personalizado
+
